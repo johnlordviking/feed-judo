@@ -1,0 +1,11 @@
+{
+  "name": "feed-judo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FeedJudo - Catálogo Mobile de Técnicas de Judô (Kodokan) organizadas por Kyu",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "FeedJudo — Técnicas Kodokan por Kyu",
+  "short_name": "FeedJudo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d90429",
+  "description": "Catálogo Mobile de Técnicas de Judô organizadas por Grau de Kyu"
+}
